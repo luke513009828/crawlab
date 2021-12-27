@@ -3,7 +3,7 @@ package apps
 import (
 	"fmt"
 	"github.com/apex/log"
-	"github.com/crawlab-team/crawlab-core/utils"
+	"github.com/luke513009828/crawlab-core/utils"
 	"github.com/crawlab-team/go-trace"
 )
 
